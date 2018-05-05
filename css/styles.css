@@ -1,5 +1,6 @@
 /* Global Styles */
 body {
+  font-family: system-ui;
   background-color: #000;
   color: #aaa;
 }
