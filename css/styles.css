@@ -21,3 +21,16 @@ a {
 .wip {
   text-align: center;
 }
+
+.hours {
+  margin: auto;
+}
+
+.hours .day {
+  text-align: left;  
+  padding: 0 .5em 0 0;
+}
+
+.hours .times {
+  text-align: center;
+}
