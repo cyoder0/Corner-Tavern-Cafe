@@ -18,6 +18,10 @@ a {
 
 }
 
+.full-hero {
+  width: 100vw;
+}
+
 .wip {
   text-align: center;
 }
