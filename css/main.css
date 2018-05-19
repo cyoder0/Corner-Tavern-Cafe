@@ -5,6 +5,11 @@ body {
 	font-family: system-ui, helvetica, arial, sans;
 }
 
+sup {
+	font-size: .5em;
+	vertical-align: top;
+}
+
 /* HEADER STYLES */
 .header {
 	background-color: #000;
