@@ -1,0 +1,87 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cornertaverncafe.com" resolutions="1x" timestamp="1526604544188">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="154296681" ref="info:contact:specials:index:menu"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="info:contact:specials:index:menu"/>
+    <file name="info.css" crc="310003730" ref="info"/>
+    <file name="nomq_info.css" crc="3966999050" ref="info"/>
+    <file name="contact.css" crc="364328724" ref="contact"/>
+    <file name="nomq_contact.css" crc="3809236191" ref="contact"/>
+    <file name="specials.css" crc="300102861" ref="specials"/>
+    <file name="nomq_specials.css" crc="133702983" ref="specials"/>
+    <file name="index.css" crc="4217829369" ref="index"/>
+    <file name="nomq_index.css" crc="3792562001" ref="index"/>
+    <file name="menu.css" crc="4114907488" ref="menu"/>
+    <file name="nomq_menu.css" crc="4016199625" ref="menu"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:menu:specials:info:contact"/>
+    <file name="museutils.js" crc="340535759" ref="index:menu:specials:info:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:menu:specials:info:contact"/>
+    <file name="museconfig.js" crc="310584261" ref="index:menu:specials:info:contact"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:menu:specials:info:contact"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:menu:specials:info:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:menu:specials:info:contact"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:menu:specials:info:contact"/>
+    <file name="require.js" crc="7928878" ref="index:menu:specials:info:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="faceade.png" crc="375249383" seo="true" ref="index:menu:specials:info:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="menu" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="specials" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="faceade-home.png" crc="4206339516" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:menu:specials:info:contact"/>
+    <file name="u235.png" crc="184226420" ref="index:menu:specials:info:contact"/>
+    <file name="u235-r.png" crc="4046513220" ref="index:menu:specials:info:contact"/>
+    <file name="u235-m.png" crc="347356232" ref="index:menu:specials:info:contact"/>
+    <file name="u235-a.png" crc="4046513220" ref="index:menu:specials:info:contact"/>
+    <file name="u404.png" crc="227160748" ref="index:menu:specials:info:contact"/>
+    <file name="u404-r.png" crc="251136123" ref="index:menu:specials:info:contact"/>
+    <file name="u404-m.png" crc="4181256384" ref="index:menu:specials:info:contact"/>
+    <file name="u404-a.png" crc="251136123" ref="index:menu:specials:info:contact"/>
+    <file name="u446.png" crc="342084548" ref="index:menu:specials:info:contact"/>
+    <file name="u446-r.png" crc="4184228431" ref="index:menu:specials:info:contact"/>
+    <file name="u446-m.png" crc="331912893" ref="index:menu:specials:info:contact"/>
+    <file name="u446-a.png" crc="4184228431" ref="index:menu:specials:info:contact"/>
+    <file name="u492.png" crc="3995003908" ref="index:menu:specials:info:contact"/>
+    <file name="u492-r.png" crc="406806930" ref="index:menu:specials:info:contact"/>
+    <file name="u492-m.png" crc="3805926303" ref="index:menu:specials:info:contact"/>
+    <file name="u492-a.png" crc="406806930" ref="index:menu:specials:info:contact"/>
+    <file name="u716.png" crc="301252767" ref="index:menu:specials:info:contact"/>
+    <file name="u716-r.png" crc="4045214941" ref="index:menu:specials:info:contact"/>
+    <file name="u716-m.png" crc="450103562" ref="index:menu:specials:info:contact"/>
+    <file name="u716-a.png" crc="4045214941" ref="index:menu:specials:info:contact"/>
+    <file name="u1599-18.png" crc="300742949" ref="index:menu:specials:info:contact"/>
+    <file name="faceade134x58.png" crc="203346442" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="faceade-menu.png" crc="289749273" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="faceade-specials.png" crc="371750458" seo="true" ref="specials">
+      <caption webpage="specials" alt=""/>
+      <caption webpage="specials" alt=""/>
+    </file>
+    <file name="faceade-info.png" crc="4096182198" seo="true" ref="info">
+      <caption webpage="info" alt=""/>
+      <caption webpage="info" alt=""/>
+    </file>
+    <file name="faceade-contact.png" crc="4049770215" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3992698153" seo="true" mt="1526600258875" redirect="true"/>
+  <file name="menu.html" crc="354087619" seo="true" mt="1526600342159" redirect="true"/>
+  <file name="specials.html" crc="4254721972" seo="true" mt="1526600258875" redirect="true"/>
+  <file name="info.html" crc="337430506" seo="true" mt="1526600258875" redirect="true"/>
+  <file name="contact.html" crc="3959179015" seo="true" mt="1526600258875" redirect="true"/>
+</manifest>
