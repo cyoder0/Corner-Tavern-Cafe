@@ -1,8 +1,15 @@
 /* GLOBAL STYLES */
 body {
-	background-color: #000;
-	color: #fff;
+  display: flex;
+  flex-direction: column;
 	font-family: system-ui, helvetica, arial, sans;
+  min-height: 100vh;
+}
+
+.content-container {
+  flex-grow: 1;
+  padding: 25vh 0 150px;
+  
 }
 
 sup {
@@ -18,6 +25,17 @@ sup {
 	position: fixed;
 	width: 100%;
 	z-index: 20;
+}
+
+.header-logo {
+  box-sizing: border-box;
+  display: block;
+  margin: 0 auto;
+  width: 40vh;
+}
+
+.header-logo img {
+  width: 40vh;
 }
 
 .header-nav {
@@ -51,18 +69,11 @@ sup {
 	color: rgb(91, 199, 122);
 }
 
-/* HERO STYLES */
-.hero {
-	display: block;
-	margin: 0 auto 1.5em;
-}
-
 /* MENU STYLES */
 .menu-wrapper {
-	margin: 0 10%;
-	padding-top: 400px;
-	padding-bottom: 150px;
+  margin: auto;
 }
+
 .menu-wrapper:after {
   visibility: hidden;
   display: block;
@@ -75,9 +86,9 @@ sup {
 .menu-column {
 	box-sizing: border-box;
 	float: left;
-	margin: 0 5%;
+  padding: 0 3%;
 	text-align: center;
-	width: 40%;
+	width: 50%;
 }
 
 .menu-column p {
@@ -90,6 +101,7 @@ sup {
 	border-top: 1px solid #fff;
 	bottom: 0;
 	box-sizing: border-box;
+  color: #fff;
 	height: 150px;
 	left: 0;
 	padding-top: 30px;
