@@ -180,4 +180,9 @@ sup {
 	.menu-item .price {
 	  position: static;
   }
+  
+  .footer {
+    position: static;
+    z-index: 0;
+  }
 }
