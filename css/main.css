@@ -39,11 +39,24 @@ sup {
   box-sizing: border-box;
   display: block;
   margin: 0 auto;
+  position: relative;
   width: 40vh;
 }
 
 .header-logo img {
   width: 40vh;
+}
+
+.light-up {
+  display: none;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.light-up.here {
+  display: inline-block;
+
 }
 
 .header-nav {
